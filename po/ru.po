@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ImageManager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-16 01:13+0100\n"
+"PO-Revision-Date: 2014-01-31 23:04+0200\n"
+"Last-Translator: dfsd <d@dw.rty>\n"
+"Language-Team: ghghgh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 1.5.7\n"
+
+msgid "Image Manager"
+msgstr "Менеджер имиджей"
+
+msgid "Backup Creator"
+msgstr "Создание бэкапа"
+
+msgid "Copying of partition"
+msgstr "Копирование раздела"
+
+msgid "Select the source partition:"
+msgstr "Выберите раздел источник:"
+
+msgid "Select the target partition:"
+msgstr "Выберите целевой раздел:"
+
+msgid "Delete the configuration file?"
+msgstr "Удалить файл настроек из бэкапа?"
+
+msgid "Select the type of archive:"
+msgstr "Выберите тип создаваемого архива:"
+
+msgid "creating backup of your image Enigma"
+msgstr "создание бэкапа вашего образа Энигмы"
+
+msgid "You cannot make backup to NAND!"
+msgstr "Нельзя создавать бэкап на раздел внутренней памяти NAND!"
+
+msgid "Copying from partition to partition"
+msgstr "Копирование с раздела на раздел"
+
+msgid "You cannot copy this partition!"
+msgstr "Нельзя копировать на этот раздел!"
+
+msgid "You cannot copy the active partition!"
+msgstr "Нельзя копировать на активный раздел!"
+
+msgid "Do you want to reboot with the new partition?"
+msgstr "Вы хотите перезагрузиться с нового раздела?"
+
+msgid " on "
+msgstr " на "
+
+msgid "Backup"
+msgstr "Бэкап"
